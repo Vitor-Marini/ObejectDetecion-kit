@@ -7,3 +7,10 @@
 
 #Ignore all ONNX model files
 *.onnx
+
+#Ignore all .png & .mp4
+*.png
+*.mp4
+
+#Ignore the runs directory
+runs/
