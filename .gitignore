@@ -1,0 +1,9 @@
+#Ignore all Pytorch model files
+*.pt
+*.pth
+
+#Ignore all TensorFlow/Keras model files
+*.h5
+
+#Ignore all ONNX model files
+*.onnx
